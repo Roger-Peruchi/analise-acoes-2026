@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A Streamlit site that downloads, analyzes, and charts the 2026 performance of three B3-listed stocks: Petrobras (PETR4), Itaú (ITUB4), and Vale (VALE3). Data comes from Yahoo Finance via `yfinance`.
 
+## Repository
+
+- GitHub: https://github.com/Roger-Peruchi/analise-acoes-2026 (public)
+- Default branch: `main`
+- Remote `origin` uses HTTPS; auth is handled by GitHub CLI (`gh auth login`), not a stored credential/token in the repo.
+
 ## Commands
 
 ```powershell
